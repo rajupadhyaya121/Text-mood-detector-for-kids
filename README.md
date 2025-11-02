@@ -3,7 +3,7 @@
 # Kid-Safe Text-Mood Detector
 
 This project is a lightweight web tool that examines a short text input and returns a child-friendly mood output (such as happy, neutral, or sad).  
-It is built using Python with Streamlit for the interface and TextBlob for simple sentiment scoring.  
+It is built using Python with Streamlit for the interface and TextBlob for simple sentiment scoring. 
 The system also checks for unsafe vocabulary so it can be used comfortably by learners aged 12–16.
 
 ---
