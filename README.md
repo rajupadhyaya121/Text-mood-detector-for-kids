@@ -12,8 +12,9 @@ Follow the steps below to run this application on your system:
 
 1. **Clone the repository**
     ```bash
-    git clone <YOUR_GITHUB_REPO_LINK>
-    cd <REPO_DIRECTORY>
+    git clone https://github.com/rajupadhyaya121/Text-mood-detector-for-kids.git
+    cd Text-mood-detector-for-kids
+
     ```
 
 2. **Install required packages**  
